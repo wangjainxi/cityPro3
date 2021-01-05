@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@mdi/font": "^4.7.95",
-    "axios": "0.18.1",
+    "axios": "0.21.1",
     "dayjs": "^1.8.17",
     "echarts": "^4.2.1",
     "element-ui": "2.6.3",
